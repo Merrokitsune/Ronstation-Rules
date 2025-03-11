@@ -1,5 +1,5 @@
 # Server Rules
-Welcome to Ronstation. This is a low-roleplay (LRP) server. Be sure to join our discord: https://discord.gg/q9vm8tfxc9.
+Welcome to Ronstation. This is a roleplay server. Be sure to join our discord: https://discord.gg/q9vm8tfxc9.
 
 # Core rules:
 These rules apply at all times, including between rounds.
@@ -10,9 +10,9 @@ Practice common sense while consulting these rules. The general idea counts, not
 Administrators can override rules or make interpretations if they deem it in the best interest of the current round, server, and/or community at large. However, administrators must answer for use of this privilege and be subject to accountability when doing so.
 
 ## C2: Don't be a jerk!
-Please be nice and respectful to each other and don't argue. Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is counterproductive and therefore prohibited. Do not try to ruin someone else’s good time. Being a jerk in-character is fine to a point, but being a jerk out of character is not welcome.
+Please be nice and respectful to each other and don't argue. Intentionally seeking to demean or inciting hatred towards others due to their actual or perceived race, sex, gender, disability, orientation or the like is counterproductive and therefore strictly prohibited. Do not try to ruin someone else’s good time. Being a jerk in-character is fine to a point, but being a jerk out of character is not welcome.
 
-Speciesism is prohibited, due to causing issues, especially if done to new players.
+Speciesism (discrimination against other races) is prohibited, due to causing issues, especially if done to new players.
 
 ## C3: Please no erotic roleplay, shock content, or any other sexually suggestive content or themes.
 Generally, avoid anything that can come off as erotic. Don't say things like, “They're raping me!”. Lighter forms of affection like hugs and kisses are appropriate, as long as they are platonic.  Leeway is given to insults. Just don't push it too much.
@@ -39,24 +39,30 @@ Local Out of Character (LOOC) and Out of Character (OOC) channel are meant for t
 ## C6: Players must be at least 16 years of age.
 All players must be at least 16 years old. Additionally, all players must have a mental age of at least 16 years old. Administration may ban someone who they believe is acting less mature than a 16 year old, even if the player is known to be significantly older than 16 years old.
 
+## C7: Do not abuse or ignore admin messages.
+Admin help, or "ahelp", is the system used by admins to communicate with specific players in the game. Only use admin help for things requiring admin attention. If you ignore messages admins send to you via ahelp, or disconnect during an ahelp, you may be banned. If you urgently need to leave during an ahelp, you may do so but will likely need to continue the ahelp on the forums. Do not admin check, be hostile/aggressive, request events, ask which event are we playing, or spam. IC methods of contacting admins, like prayers, should be used when there is not an issue.
+
+Admins are not always online, but all ahelps are automatically relayed to discord. For various reasons, admins might not respond to an ahelp even if they've handled it. A lack of response does not necessarily mean that an ahelp was ignored.
+
 # Roleplaying standards:
 These rules only apply during a round. A round ends only when the round summary has appeared. All of these rules apply fully until the moment that the round summary appears, even while the arrivals shuttle is in transit.
 Roleplay rules do not apply to ghosts/spectators/observers while they are ghosts/spectators/observers. Dead chat is considered to be an in-game out of character chat channel. Roleplay rules also do not apply during deathmatch and sandbox game modes.
 
-## R1: Please roleplay as a coherent, believable character; this is a roleplaying game after all.
+## R1: Please roleplay a believable character; this is a roleplaying game after all.
 - R1.1: Your words and actions ingame should be distinguishable as an in-universe character, and not as a person playing a game. Playstyles that disregard all opportunities for engagement and roleplay can be met with administrative action.
-- R1.2.1: Make a minimum effort to have your name fit in a setting involving a space station in the future. Honorifics and nicknames are allowed as long as only one additive is used at a time, i.e "James Williams Jr." or "James "One-Eye" Williams". Excessively OOC names are disallowed, and are defined as names which are intentionally hard to read/spell, references to in-game mechanics or OOC terminology, historical/famous/media, and any form of nonsensical or low-effort name. Clowns, mimes, silicons, wizards, and nuke ops have significantly more leeway in choosing their names, within reason.
-- R1.2.2: Species have naming conventions that are part of their in-universe culture. These may be subverted if they have a sufficient amount of in-character reasoning and effort explaining their non-standard name. Non-standard names are held to higher scrutiny and you may be questioned on why your name breaks these conventions.
-- R1.3: Character descriptions should only contain information that any other character couldn’t notice at a glance. The flavor text shouldn't contain any information about a feature (like personality, past, and so on) that isn't immediately apparent.
-- R1.4: You are, however, free to ask the administration questions about wether what you're about to do/were doing is acceptable under this ruleset.
+- R1.2: There's a good chance your character still wants to have a job at the end of the day, so you should probably act like it. This means your character can act silly, but cannot act excessively childish or infantile.
+- R1.3.1: Make a minimum effort to have your name fit in a setting involving a space station in the future. Honorifics and nicknames are allowed as long as only one additive is used at a time, i.e "James Williams Jr." or "James "One-Eye" Williams". Excessively OOC names are disallowed, and are defined as names which are intentionally hard to read/spell, references to in-game mechanics or OOC terminology, historical/famous/media, and any form of nonsensical or low-effort name. Clowns, mimes, silicons, wizards, and nuke ops have significantly more leeway in choosing their names, within reason.
+- R1.3.2: Species have naming conventions that are part of their in-universe culture. These may be subverted if they have a sufficient amount of in-character reasoning and effort explaining their non-standard name. Non-standard names are held to higher scrutiny and you may be questioned on why your name breaks these conventions.
+- R1.4: Character descriptions should only contain information that any other character couldn’t notice at a glance. The flavor text shouldn't contain any information about a feature (like personality, past, and so on) that isn't immediately apparent.
 - R1.5: characters are allowed to have persistent knowledge/relationships/friendships with the caveat that knowledge of a character from previous rounds is not used maliciously. Likewise, Character friendships should not be exploitative in nature or be used to gain an unfair advantage.
 
-## R2: No metagaming please.
+## R2: No metagaming, please.
 Usage of information you shouldn't have to gain advantage over others or otherwise break the round is prohibited, as it can not only result in a breach of immersion, but can ruin rounds for players.
 - R2.1: Your character does not remember anything which happened while they are dead or otherwise unconcious. This does not apply while you're in critical health.
 - R2.2: When borged or cloned, your character may only remember vague descriptors of who or what killed you (Eg. Stabbed by someone in a grey suit).
 - R2.3: You cannot respawn as the same character during a given round.
 - R2.4: When playing a ghost role, you cannot remember anything you did before playing a ghost-role.
+- R2.5: [There is a metashield that you must adhere while playing as a character](https://wiki.spacestation14.com/wiki/Metashield).
 
 ## R3: Escalation must be reasonable.
 You may begin IC conflicts with another player if it does not excessively interfere with their ability to do their job. While you are allowed to escalate conflicts within reason, if it leads to violence and you have poor IC reasoning for inciting it, you may face administrative action.
@@ -83,7 +89,7 @@ This means that you should do the job you signed up for and not try and do other
 If you are a member of command, or any other important role (which is relayed to you in chat upon receiving your role) and you need to leave early, you should attempt to cryosleep if possible (and if you're a command member, you should notify command members that you're going to cryosleep).
 
 Furthermoe, some roles require additional rules to follow:
-- R6.1e: Antagonists should generally attempt to complete their objectives. Team antagonists should get along together and not fight each other while trying to complete their objectives.
+- R6.1e: Antagonists (whose purpose is to contribute to the story) are expected to put in at least some effort towards playing their designated role, though may break with it given sufficient in character reason. Some antagonists are restricted in the ways and quantities they may lend themselves to visiting death and destruction upon the crew.
 - R6.2e: Silicons (AI or borgs) must obey their laws, no matter the situation. They are, however, considered free-agents if they have no laws. Refer to silicon rules for more info.
 - R6.3e: Familiars must always obey their master and follow every orders their master gives out.
 - R6.4e: Ghost roles sometimes have specific rulesets and instructions that you must follow.
